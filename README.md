@@ -1,4 +1,4 @@
-# Underbelly Peak Hour Forecaster 🕒
+# Restaurant Peak Hour Forecaster 🕒
 
 A predictive tool designed to estimate wait times at the **Underbelly** eatery. This project uses fundamental Machine Learning to help students avoid long queues by identifying peak hours based on the day and time.
 
